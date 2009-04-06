@@ -1,0 +1,12 @@
+h1. vim
+
+this is my vim config.  i originally pulled it 
+from here:
+
+http://github.com/akitaonrails/vimfiles/tree/master
+
+now it has morphed into something else.  it might not
+work on windows or it might work well.  i don't know.
+
+
+happy hacking!
