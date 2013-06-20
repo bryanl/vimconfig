@@ -1,5 +1,10 @@
 h1. vim
 
+h2. This thing is deprecated. I wouldn't use this if I were use. 
+
+https://github.com/carlhuda/janus is a much better starting point these days.
+
+
 this is my vim config.  i originally pulled it 
 from here:
 
@@ -10,3 +15,5 @@ work on windows or it might work well.  i don't know.
 
 
 happy hacking!
+
+
