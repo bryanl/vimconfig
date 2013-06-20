@@ -1,6 +1,6 @@
 h1. vim
 
-h2. This thing is deprecated. I wouldn't use this if I were use. 
+h2. This thing is deprecated. I wouldn't use this if I were you. 
 
 https://github.com/carlhuda/janus is a much better starting point these days.
 
